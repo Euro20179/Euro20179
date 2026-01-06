@@ -3,4 +3,4 @@
 
 ---
 
-I am starting to use my [own git forge](https://git.seceurity.place) more now, and only use github as a backup. As such not all of my projects are on github.
+I am in the process of s..lo..w..ly moving to [codeberg](https://codeberg.org/euro2017). Nothing here will be deleted. Any old projects will continue to be a mirror of the codeberg version. However no new projects will be posted on github.
